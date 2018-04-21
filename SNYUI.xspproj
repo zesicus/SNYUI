@@ -1,0 +1,15 @@
+[LIB]
+size=0
+
+[RES]
+1\RESFILE=/Users/zesicus/Documents/Developer/xxzs/xspworkspace/SNYUI/xsp/res/b.jpg
+size=1
+
+[SOURCE]
+1\SOURCEFILE=/Users/zesicus/Documents/Developer/xxzs/xspworkspace/SNYUI/xsp/src/main.lua
+2\SOURCEFILE=/Users/zesicus/Documents/Developer/xxzs/xspworkspace/SNYUI/xsp/src/SNYUI.lua
+3\SOURCEFILE=/Users/zesicus/Documents/Developer/xxzs/xspworkspace/SNYUI/xsp/src/SNYUI.lua
+size=2
+
+[UI]
+size=0
