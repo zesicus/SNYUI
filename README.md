@@ -2,9 +2,7 @@
 
 ![Build Status](https://travis-ci.org/hrscy/TodayNews.svg?branch=master)
 
-> ✨根据G神的面向对象开源库“GUI”修改, 符合JSON编写界面风格
-
-<img src="http://zesicus.xyz/wordpress/wp-content/uploads/2018/04/snyui_screenshot.png" width="200" height="300">
+> ✨初学Lua总结编写的UI库, 符合JSON编写界面风格
 
 ### 适用平台
 
